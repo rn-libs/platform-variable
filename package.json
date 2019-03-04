@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/rn-libs/platform-variable.git"
+    "url": "git+https://github.com/rn-libs/platform-variable"
   },
   "keywords": [
     "react-native",
@@ -29,10 +29,10 @@
     "@babel/core": "^7.3.4",
     "@babel/plugin-transform-runtime": "^7.3.4",
     "@babel/preset-env": "^7.3.4",
-    "babel-plugin-dynamic-import-node-babel-7": "^2.0.7"
+    "babel-plugin-dynamic-import-node-babel-7": "^2.0.7",
+    "jest": "^24.1.0"
   },
   "dependencies": {
-    "jest": "^24.1.0",
     "react-native": ">=0.47.0",
     "react-native-iphone-x-helper": "^1.2.0"
   }
