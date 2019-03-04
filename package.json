@@ -1,7 +1,7 @@
 {
   "name": "platform-variable",
   "version": "1.0.0",
-  "description": "",
+  "description": "lib for choice varriable by platform",
   "main": "lib/index.js",
   "scripts": {
     "build": "npx babel ./index.js -d lib/",
