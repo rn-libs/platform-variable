@@ -1,5 +1,5 @@
 {
-  "name": "platform-variable",
+  "name": "rn-plat-envs",
   "version": "1.0.0",
   "description": "lib for choice varriable by platform",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rn-libs/platform-variable"
+    "url": "git+https://github.com/rn-libs/rn-plat-envs"
   },
   "keywords": [
     "react-native",
@@ -21,9 +21,9 @@
   "author": "Shelomanov Dmitry <userbq201@mail.ru>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rn-libs/platform-variable/issues"
+    "url": "https://github.com/rn-libs/rn-plat-envs/issues"
   },
-  "homepage": "https://github.com/rn-libs/platform-variable#readme",
+  "homepage": "https://github.com/rn-libs/rn-plat-envs#readme",
   "devDependencies": {
     "@babel/cli": "^7.2.3",
     "@babel/core": "^7.3.4",
