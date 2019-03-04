@@ -1,6 +1,6 @@
 {
   "name": "rn-plat-envs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lib for choice varriable by platform",
   "main": "lib/index.js",
   "scripts": {
@@ -14,7 +14,6 @@
   },
   "keywords": [
     "react-native",
-    "platform",
     "ios",
     "android"
   ],

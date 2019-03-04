@@ -1,6 +1,6 @@
 #  React native platform environment (rn-plat-envs)
 ### install
-```npm install platform-variable```
+```npm install rn-plat-envs```
 ### how to use
 ```js
 import { platformVariable } from 'rn-plat-envs'
