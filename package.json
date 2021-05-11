@@ -1,6 +1,6 @@
 {
   "name": "rn-plat-envs",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "lib for choice varriable by platform",
   "main": "lib/index.js",
   "scripts": {
@@ -33,7 +33,7 @@
     "react-native": "^0.58.6"
   },
   "dependencies": {
-    "react-native-iphone-x-helper": "^1.2.0"
+    "react-native-iphone-x-helper": "^1.3.1"
   },
   "peerDependencies": {
     "react": "*",
