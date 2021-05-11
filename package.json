@@ -1,6 +1,6 @@
 {
   "name": "rn-plat-envs",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "lib for choice varriable by platform",
   "main": "lib/index.js",
   "scripts": {

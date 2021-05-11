@@ -1,1 +1,1 @@
-declare function platformVariable<T>(anroid: T, ios: T, iosX: T): T;
+export declare function platformVariable<T>(anroid: T, ios: T, iosX?: T): T;
